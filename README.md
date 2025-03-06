@@ -11,3 +11,6 @@ There are two saved models in this repository. One with 100k timesteps and one w
 <div align="center">
     <img src="breakout.png" height=400, width=250>
 </div>
+
+## Try the game
+You can also try the game in module 6 of the notebook
