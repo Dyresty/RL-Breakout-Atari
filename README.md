@@ -9,5 +9,5 @@ There are two saved models in this repository. One with 100k timesteps and one w
 
 Image with the Breakout Atari Game
 <div align="center">
-    <img src="images/breakout.png" height=500, width=800>
+    <img src="breakout.png" height=500, width=800>
 </div>
